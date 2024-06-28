@@ -257,13 +257,7 @@ int main()
     o.cut(fn3);
     o.save("cow1.obj");
 
-    // o.print(std::cout);
-    // Object3D cube = Object3D::createCube(5);
-    // cube.save("myCube.obj");
-    // Object3D sp = Object3D::createSphere(1);
-    // sp.save("sp.obj");
-    // cut.flip();
-    // cut.save("sp.obj");
+    
    
     return 0;
 }
